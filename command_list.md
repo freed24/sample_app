@@ -4,5 +4,6 @@
 - git add -A
 - git commit -m "创建练习项目"
 - touch command_list.md
+- 修改Gemfile source源，添加‘source 'https://gems.ruby-china.org/'
 - bundle install --without production
 
