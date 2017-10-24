@@ -5,3 +5,4 @@
 - git commit -m "创建练习项目"
 - touch command_list.md
 - bundle install --without production
+
