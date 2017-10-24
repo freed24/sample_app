@@ -5,5 +5,6 @@
 - git commit -m "创建练习项目"
 - touch command_list.md
 - 修改Gemfile source源，添加‘source 'https://gems.ruby-china.org/'
+- bundle lock --add-platform x86-mingw32 x86-mswin32 x64-mingw32 java
 - bundle install --without production
 
